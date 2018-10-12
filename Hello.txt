@@ -1,0 +1,3 @@
+Hi,
+My name is Marco.
+This is the repo for the Brain Station prep-course.
