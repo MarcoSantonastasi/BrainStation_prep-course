@@ -32,7 +32,7 @@ the graphical effect in the console.
 var triangleOfHashes = "";
 
 for (row = 1; row <= 7; row++) {
-  let hashes = "#".repeat(row) + "\n";
+  const hashes = "#".repeat(row) + "\n";
   triangleOfHashes += hashes;
 }
 

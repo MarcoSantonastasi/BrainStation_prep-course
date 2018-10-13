@@ -1,0 +1,27 @@
+body {
+    max-width:8.5in;
+    margin-top:0.5063in;
+    margin-bottom:0.5902in;
+    margin-left:1.1945in;
+    margin-right:0.361in;
+  
+    font-family: "Helvetica Neue", sans-serif;
+  }
+  
+  #titleName h1 {
+    text-align: center;
+    margin: 10%;
+    background-color: darkblue;
+    color: whitesmoke
+  }
+  
+  .contentSection {
+    font-size: 0.8em;
+  }
+  .contentSection h2 {
+    font-weight: lighter;
+    }
+  
+    #logo {
+      margin: 25%;
+    }
